@@ -1,0 +1,5 @@
+this is my test file
+i want to read this data
+this is nothing but going to write a program to read this
+we have written the while loop as a logic
+browser=chrome

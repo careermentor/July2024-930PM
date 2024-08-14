@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T22:13:07 IST" name="Default suite" finished-at="2024-08-13T22:13:30 IST" duration-ms="22883">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T22:13:07 IST" name="Default test" finished-at="2024-08-13T22:13:30 IST" duration-ms="22883">
+      <class name="org.wipro.fedexcouw.testcases.LoginScenario">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:07 IST" name="launchBrowser" finished-at="2024-08-13T22:13:11 IST" duration-ms="3780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc001_loginfunctionality(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:11 IST" name="tc001_loginfunctionality" data-provider="dataname" finished-at="2024-08-13T22:13:12 IST" duration-ms="608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001_loginfunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:12 IST" name="closeBrowser" finished-at="2024-08-13T22:13:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:12 IST" name="launchBrowser" finished-at="2024-08-13T22:13:15 IST" duration-ms="3367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc001_loginfunctionality(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:15 IST" name="tc001_loginfunctionality" data-provider="dataname" finished-at="2024-08-13T22:13:26 IST" duration-ms="10741" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001_loginfunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:26 IST" name="closeBrowser" finished-at="2024-08-13T22:13:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:26 IST" name="launchBrowser" finished-at="2024-08-13T22:13:29 IST" duration-ms="3641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="tc001_loginfunctionality(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:29 IST" name="tc001_loginfunctionality" data-provider="dataname" finished-at="2024-08-13T22:13:30 IST" duration-ms="636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001_loginfunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.fedexcouw.testcases.LoginScenario@576d5deb]" started-at="2024-08-13T22:13:30 IST" name="closeBrowser" finished-at="2024-08-13T22:13:30 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.wipro.fedexcouw.testcases.LoginScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
